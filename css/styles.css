@@ -479,7 +479,7 @@ span {
     }
 
     .about {
-        flex-direction: column;
+       /* flex-direction: column; */
     }
 
     .about img {
