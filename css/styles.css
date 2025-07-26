@@ -124,7 +124,8 @@ span {
 
 .home-content p {
     font-size: 1.6rem;
-    width: 50%;
+    width: 60%;
+    text-align: justify;
 }
 
 
